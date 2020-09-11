@@ -16,12 +16,12 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 h1 {
-    font-size: 2cm;
+    font-size: 2em;
     color: rgb(58, 0, 112);
 }
 
 h2 {
-    font-size: 2cm;
+    font-size: 1.5em;
     color: rgb(58, 0, 112);
 }
 
